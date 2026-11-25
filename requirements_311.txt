@@ -1,0 +1,35 @@
+# CPU sestaveni PyTorch (Windows/Linux); na macOS se torch vezme z PyPI. Radek neodstranujte.
+--extra-index-url https://download.pytorch.org/whl/cpu
+cloudpickle
+colorama
+contourpy
+cycler
+filelock
+fonttools
+fsspec
+iniconfig
+Jinja2
+joblib
+kiwisolver
+MarkupSafe
+matplotlib
+mpmath
+narwhals
+networkx
+numpy
+packaging
+pillow
+pluggy
+Pygments
+pyparsing
+pytest
+python-dateutil
+PyYAML
+scikit-learn
+scipy
+setuptools
+six
+sympy
+threadpoolctl
+torch
+typing_extensions
